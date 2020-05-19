@@ -4,8 +4,7 @@ Spring 2018
 
 Colors
 
-Green:  #3CB371; background for wrapper
-White   #FFFFFF;
+Grey   #808080;
 */
 
 
@@ -18,7 +17,7 @@ Class
 /*
 Styles
 */	
-fieldset {font-weight:bold; background-color:#FFFFFF;}
+fieldset {font-weight:bold; background-color: #808080;}
 legend {padding: 5px 5px 10px;}
 
 
