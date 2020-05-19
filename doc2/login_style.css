@@ -19,7 +19,7 @@ Class
 /*
 Styles
 */	
-fieldset {font-weight:bold; background-color:#FFFFFF;}
+fieldset {font-weight:bold; outline-width: 1px; outline-style: solid; background-color:#FFFFFF;}
 
 
 
