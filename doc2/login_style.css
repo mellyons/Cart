@@ -12,14 +12,13 @@ White   #FFFFFF;
 /*
 Class
 */
-.wrapper {width:92%; margin:0 auto; max-width:960px; background-color:#3CB371;
-	padding:30px 0;}
+.wrapper {width:92%; margin:0 auto; max-width:960px; background-color:#3CB371; padding:30px 0;}
 
 	
 /*
 Styles
 */	
-fieldset {font-weight:bold; background-color:#FFFFFF; padding-top: 10px; padding-bottom: 10px;}
+fieldset {font-weight:bold; background-color:#FFFFFF;}
 
 
 
