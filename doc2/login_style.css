@@ -4,7 +4,7 @@ Spring 2018
 
 Colors
 
-Green:  #3CB371;
+Green:  #3CB371; background for wrapper
 White   #FFFFFF;
 */
 
@@ -12,7 +12,7 @@ White   #FFFFFF;
 /*
 Class
 */
-.wrapper {width:92%; margin:0 auto; max-width:960px; background-color:#3CB371; padding:30px 0;}
+.wrapper {width:92%; margin:0 auto; max-width:960px; padding:30px 20px 20px 20px;}
 
 	
 /*
