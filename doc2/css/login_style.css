@@ -12,7 +12,7 @@ Beige  #F5F5DC;
 /*
 Class
 */
-.wrapper {width:92%; margin:0 auto; max-width:960px; padding:30px 20px 20px 20px;}
+.wrapper {width:92%; margin:0 auto; max-width:960px; padding:30px 20px 20px 20px; background-color: #F5F5DC;}
 
 	
 /*
@@ -26,4 +26,4 @@ legend {padding: 5px 5px 10px;}
 ID's
 */	
 #output_Form {padding-left:50px; padding-right:50px;}
-#order_Form err {font-weight:bold; color:red;}
+#order_Form {font-weight:bold; color:red;}
