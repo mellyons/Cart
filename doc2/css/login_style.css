@@ -5,6 +5,7 @@ Spring 2018
 Colors
 
 Grey   #808080;
+Beige  #F5F5DC;
 */
 
 
@@ -25,4 +26,4 @@ legend {padding: 5px 5px 10px;}
 ID's
 */	
 #output_Form {padding-left:50px; padding-right:50px;}
-#order_Form id {font-weight:bold; color:red;}
+#order_Form err {font-weight:bold; color:red;}
