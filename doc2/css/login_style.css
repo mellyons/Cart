@@ -4,7 +4,7 @@ Spring 2018
 
 Colors
 
-Grey   #808080;
+Grey   #D3D3D3;
 Beige  #F5F5DC;
 */
 
@@ -18,7 +18,7 @@ Class
 /*
 Styles
 */	
-fieldset {font-weight:bold; background-color: #808080;}
+fieldset {font-weight:bold; background-color: #D3D3D3;}
 legend {padding: 5px 5px 10px;}
 
 
