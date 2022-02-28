@@ -17,13 +17,12 @@ Class
 	margin:0 auto; 
 	max-width:960px; 
 	padding:30px 20px 20px 20px; 
-	background-color: #F5F5DC;
 }
-
 	
 /*
 Styles
 */	
+body {background-color: #F5F5DC;}
 fieldset {font-weight:bold; background-color: #D3D3D3;}
 legend {padding: 5px 5px 10px;}
 
