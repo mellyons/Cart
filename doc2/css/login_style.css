@@ -5,7 +5,7 @@ Spring 2018
 Colors
 
 Grey   #D3D3D3;
-Beige  #F5F5DC;
+Tan #D2B48C;
 */
 
 
@@ -22,12 +22,12 @@ Class
 /*
 Styles
 */	
-body {background-color: beige;}
+body {background-color: #D2B48C;}
 legend {padding: 5px 5px 10px;}
 
 
 /*
 ID's
 */	
-#output_Form {padding-left:50px; padding-right:50px;}
+#output_Form {padding-left:50px; padding-right:50px; border:solid;}
 #order_Form {font-weight:bold;}
