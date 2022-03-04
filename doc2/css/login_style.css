@@ -1,41 +1,46 @@
-/*
-Melina Lyons
-Spring 2018
-Color: Tan #D2B48C;
-*/
+/*Melina Lyons
+Spring 2018*/
 
-/*
-Class
-*/
+/*Class*/
 .wrapper {
   width: 92%;
   margin: 0 auto;
   max-width: 960px;
   padding: 30px 20px 20px 20px;
+  background-color: #FFF6E9;
 }
 
 .company {
   display: flex;
+  height:200px;
   flex-direction: row;
 }
 
-/*
-Styles
-*/
-
-legend {
-  padding: 5px 5px 10px;
+.box3 {
+  padding-left:70%;
 }
 
-/*
-ID's
-*/
+/*Styles*/
+fieldset {
+  background-color:#FFEBCD;
+}
+
+
+legend {
+  padding: 2px;
+}
+
+/*ID's #output_Form is CSS associated with login.html*/
 #output_Form {
   padding-left: 50px;
   padding-right: 50px;
   border: solid;
 }
+
+/*this id is associated with index.html*/
 #order_Form {
+  margin-left: 50px;
+  margin-right: 50px;
+  border: solid;
   font-weight: bold;
-  background-color: #d2b48c;
 }
